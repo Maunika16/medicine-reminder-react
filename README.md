@@ -31,4 +31,4 @@ npm install
 npm run dev
 
 ## Author
-Mauni
+Maunika
